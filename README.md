@@ -7,7 +7,8 @@
 
 ## roadmap
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" height="40"/>
+  <img src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"          width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"            width="40" height="40"/>
   <img src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor" />  
@@ -29,8 +30,7 @@
   
 </p>
   
-  ## more
- 
+  ## more 
 <div> 
   <a href="https://www.youtube.com/channel/UCVcVVbpjauEo6PQYEjdb5QQ" target="_blank"><img src="https://img.shields.io/badge/digitalfenix-323232?style=for-the-badge&logo=youtube&logoColor=black" target="_blank"></a>
 </div>
