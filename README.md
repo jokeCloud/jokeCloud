@@ -9,19 +9,19 @@
 <p align="left">
   <img src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor"/>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"          width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"            width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"          width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"            width="50" height="50"/>
   <img src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor" />  
   <img src="https://icongr.am/devicon/django-original.svg?size=50&color=currentColor" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"            width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"            width="50" height="50"/>
   <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=50&color=currentColor" />
   
   <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=50&color=currentColor" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"    width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"    width="50" height="50"/>
   <img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=50&color=currentColor" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"            width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"            width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"            width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"            width="50" height="50"/>
   <img src="https://icongr.am/devicon/debian-original-wordmark.svg?size=50&color=currentColor" />  
   <img src="https://icongr.am/devicon/c-original.svg?size=50&color=currentColor" />
   <img src="https://icongr.am/devicon/gimp-original-wordmark.svg?size=50&color=currentColor" />
