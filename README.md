@@ -21,6 +21,7 @@
   <img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=50&color=currentColor" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"            width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  width="50" height="50"/>
+  <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=50&color=currentColor" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"            width="50" height="50"/>
   <img src="https://icongr.am/devicon/debian-original-wordmark.svg?size=50&color=currentColor" />  
   <img src="https://icongr.am/devicon/c-original.svg?size=50&color=currentColor" />
