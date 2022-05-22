@@ -43,6 +43,6 @@
   
 [![Linkedin: emdev](https://img.shields.io/badge/-emdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emerson-medalha/)](https://www.linkedin.com/in/emerson-medalha/)
   
-[![SKYLINE-github: emdev](https://img.shields.io/badge/-skyline-github-grey?style=flat-square&logoColor=white&link=https://skyline.github.com/jokecloud/2022/)](https://skyline.github.com/jokecloud/2022)
+[![SKYLINE-github: emdev](https://img.shields.io/badge/-skyline-github-grey?style=flat-square&logo=Linkedin&logoColor=white&link=https://skyline.github.com/jokecloud/2022/)](https://skyline.github.com/jokecloud/2022)
   
 
