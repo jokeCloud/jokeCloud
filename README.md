@@ -14,7 +14,7 @@
   <img src="https://icongr.am/devicon/vuejs-original-wordmark.svg?size=50&color=currentColor" />
   <img src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor" />  
   <img src="https://icongr.am/devicon/django-original.svg?size=50&color=currentColor" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg?size=50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50"/>
   <img src="https://icongr.am/devicon/ruby-original-wordmark.svg?size=50&color=currentColor" />
   <img src="https://icongr.am/devicon/rails-original-wordmark.svg?size=50&color=currentColor" />
   <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=50&color=currentColor" />
