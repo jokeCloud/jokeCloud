@@ -2,11 +2,9 @@
 
 <div>
   <a href="https://github.com/jokeCloud">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokeCloud&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokeCloud&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
-  
-  [![emdev Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jokeCloud&langs_count=5&hide=json,properties,stylus&custom_title=Most%20Used%20Languages&theme=dark&time_range=last_year)](https://wakatime.com/@jokeCloud)
-  
+
 ## roadmap
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" height="40"/>
