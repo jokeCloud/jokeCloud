@@ -3,8 +3,6 @@
 <div align="center">
   <a href="https://github.com/jokeCloud">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokeCloud&layout=compact&langs_count=7&theme=github_dark"/>
-    [![Linkedin: emerson](https://img.shields.io/badge/-emerson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emdev/)]  (https://www.linkedin.com/in/emerson-medalha/)
-  [![GitHub: stebsnusch](https://img.shields.io/github/followers/emdev?label=follow&style=social)](https://github.com/jokeCloud)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,8 +18,13 @@
 <div> 
   <a href="https://www.youtube.com/channel/UCVcVVbpjauEo6PQYEjdb5QQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emerson-medalha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
 </div>
+  
+  
+  [![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Astephanyn7%40gmail.com)](mailto:stephanyn7@gmail.com)
+[![Twitter: stephdotjs](https://img.shields.io/twitter/follow/stephdotjs?style=social)](https://twitter.com/stephdotjs)
+[![Linkedin: stephanynusch](https://img.shields.io/badge/-stephanynusch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephanynusch/)](https://www.linkedin.com/in/stephanynusch/)
+[![GitHub: stebsnusch](https://img.shields.io/github/followers/stebsnusch?label=follow&style=social)](https://github.com/stebsnusch)
 
 <!--
 
