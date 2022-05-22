@@ -21,8 +21,8 @@
 </div>
   
   
-[![Twitter: stephdotjs](https://img.shields.io/twitter/follow/stephdotjs?style=social)](https://twitter.com/stephdotjs)
-[![Linkedin: stephanynusch](https://img.shields.io/badge/-stephanynusch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephanynusch/)](https://www.linkedin.com/in/stephanynusch/)
+
+[![Linkedin: emdev](https://img.shields.io/badge/-emdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emerson-medalha/)](https://www.linkedin.com/in/emerson-medalha/)
 [![GitHub: stebsnusch](https://img.shields.io/github/followers/stebsnusch?label=follow&style=social)](https://github.com/stebsnusch)
 
 <!--
