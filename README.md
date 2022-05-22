@@ -1,6 +1,6 @@
 ### Hi 👋
 
-<div align="center">
+<div>
   <a href="https://github.com/jokeCloud">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokeCloud&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
