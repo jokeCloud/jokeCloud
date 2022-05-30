@@ -62,7 +62,7 @@
 <!-- icons by https://github.com/devicons/devicon -->
 <div style="display: inline_block" align= "center"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"> 
+  <img align="center" alt="Django" height="30" width="40" src="https://icongr.am/devicon/django-original.svg?size=50&color=currentColor"> 
   <img align="center" alt="Javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="VueJS" height="30" width="40" src="https://icongr.am/devicon/vuejs-original-wordmark.svg?size=50&color=currentColor"">
 
