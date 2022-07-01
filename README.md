@@ -41,7 +41,7 @@
   <a href="https://www.youtube.com/user/Computerphile/videos" target="_blank"><img src="https://img.shields.io/badge/computerphile-323232?style=for-the-badge&logo=youtube&logoColor=black" target="_blank"></a>
 </div>
 <div> 
-  <a href="https://www.youtube.com/watch?v=FFftmWSzgmk" target="_blank"><img src="https://img.shields.io/badge/computerphile-323232?style=for-the-badge&logo=youtube&logoColor=black" target="_blank"></a>
+  <a href="https://www.youtube.com/watch?v=FFftmWSzgmk" target="_blank"><img src="https://img.shields.io/badge/numberphile-323232?style=for-the-badge&logo=youtube&logoColor=black" target="_blank"></a>
 </div>
 
 
