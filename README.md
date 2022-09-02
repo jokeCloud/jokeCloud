@@ -12,7 +12,6 @@
 ## roadmap
 <p align="left">
   <img src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor" />
-  <img src="https://icongr.am/devicon/typescript-original.svg?size=50&color=currentColor" />
   <img src="https://icongr.am/devicon/vuejs-original-wordmark.svg?size=50&color=currentColor" />
   <img src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor" />  
   <img src="https://icongr.am/devicon/django-original.svg?size=50&color=currentColor" />
