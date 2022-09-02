@@ -28,10 +28,8 @@
   <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=50&color=currentColor" />
   <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=50&color=currentColor" />  
   <img src="https://icongr.am/devicon/debian-original-wordmark.svg?size=50&color=currentColor" /> 
-  <img src="https://icongr.am/devicon/vim-original.svg?size=50&color=currentColor" />
-  <img src="https://icongr.am/devicon/redis-original-wordmark.svg?size=50&color=currentColor" />
-  <img src="https://icongr.am/devicon/ruby-original-wordmark.svg?size=50&color=currentColor" />
-  <img src="https://icongr.am/devicon/rails-original-wordmark.svg?size=50&color=currentColor" />
+  
+  
   <img src="https://icongr.am/devicon/c-original.svg?size=50&color=currentColor" />
   <img src="https://icongr.am/devicon/gimp-original-wordmark.svg?size=50&color=currentColor" />  
 </p>
