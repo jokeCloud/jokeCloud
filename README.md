@@ -17,7 +17,6 @@
   <img src="https://icongr.am/devicon/django-original.svg?size=50&color=currentColor" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50"/>
   <img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=50&color=currentColor" />
-  <img src="https://icongr.am/devicon/amazonwebservices-original.svg?size=50&color=currentColor"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"            width="50" height="50"/>
   <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=50&color=currentColor" />
   <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=50&color=currentColor" />  
