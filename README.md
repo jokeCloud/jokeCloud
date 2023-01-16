@@ -25,7 +25,9 @@
   <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=50&color=currentColor" />
   <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=50&color=currentColor" />  
   <img src="https://icongr.am/devicon/debian-original-wordmark.svg?size=50&color=currentColor" />
-  <img src="https://icongr.am/devicon/gimp-original-wordmark.svg?size=50&color=currentColor" />  
+  <img src="https://icongr.am/devicon/gimp-original-wordmark.svg?size=50&color=currentColor" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original-wordmark.svg" />
+          
 </p>
   
   ## more 
