@@ -28,7 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" />        
   <img src="https://icongr.am/devicon/debian-original-wordmark.svg?size=50&color=currentColor" />
   <img src="https://icongr.am/devicon/gimp-original-wordmark.svg?size=50&color=currentColor" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50" height="50" />         
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" width="50" height="50"/>
 </p>
   
   ## more 
